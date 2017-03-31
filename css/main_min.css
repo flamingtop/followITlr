@@ -1,0 +1,49 @@
+.banner {
+    margin-top: 10%;
+}
+
+.banner h2 {
+    margin-bottom: 2%;
+}
+
+.nav {
+    margin-top: 30%;
+}
+
+.nav-left {
+    height: 100px;
+    float: left;
+    background-color: black;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.nav-right {
+    height: 100px;
+    float: left;
+    background-color: rgba(100, 100, 100, 0.3);
+    background-repeat: repeat-x;
+    font-size: 16px;
+    text-align: left;
+    color: black;
+    padding-top: 15px;
+    padding-left: 15px;
+}
+
+.nav-right ul li {
+    text-align: center;
+}
+
+.nav-right li {
+    color: black;
+}
+
+.nav-right li a:link {
+    color: black;
+}
+
+.nav-right li a:visited {
+    color: black;
+}

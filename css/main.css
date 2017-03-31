@@ -1,0 +1,17 @@
+body {
+    width: 100%;
+    background-image: url('../img/wallhaven02.jpg');
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.container {
+    background-color: rgba(100, 100, 100, 0.1);
+    height: auto;
+}
+
+.more {
+    font-size: 16px;
+    color: black;
+    padding-top: 10px;
+}
